@@ -16,7 +16,9 @@
   },
   "scripts": {
     "start": "react-app-rewired start",
-    "build": "react-app-rewired build"
+    "build": "react-app-rewired build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -37,5 +39,6 @@
     "@babel/plugin-proposal-decorators": "^7.10.5",
     "customize-cra": "^1.0.0",
     "react-app-rewired": "^2.1.6"
-  }
+  },
+  "homepage": "https://beansdrawer.github.io/best-video"
 }
