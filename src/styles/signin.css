@@ -26,24 +26,24 @@
 .signin > .signin__wrapper > .signin__form > form > input,
 .signin > .signin__wrapper > .signin__form > form > button {
   width: 80%;
-  height: 80px;
+  height: 40px;
   border: none;
 }
 .signin > .signin__wrapper > .signin__form > form > input{
-  margin-bottom: 25px;
-  font-size: 28px;
+  margin-bottom: 15px;
+  font-size: 22px;
   padding-left: 10px;
   background-color: #e6e1e1;
 }
 .signin > .signin__wrapper > .signin__form > form > button{
-  font-size: 24px;
+  font-size: 22px;
   font-weight: 600;
   color: #ffffff;
   background-color: #e7473c;
 }
 
 .signin > .signin__wrapper > .signin__register{
-  font-size: 24px;
+  font-size: 18px;
   text-align: center;
 }
 .signin > .signin__wrapper > .signin__register > p > .signin__register__create{

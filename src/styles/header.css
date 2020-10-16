@@ -20,7 +20,7 @@ header > h1 {
   letter-spacing: 5px;
 }
 .bottom > h3 {
-  font-size: 30px;
+  font-size: 24px;
   font-weight: 500;
   margin-bottom: 40px;
 }
@@ -31,10 +31,11 @@ header > h1 {
 }
 .bottom > p {
   font-weight: 300;
-  font-size: 22px;
+  font-size: 18px;
   margin-bottom: 40px;
 }
 .bottom > nav > ul {
+  width: 80%;
   display: flex;
   flex-wrap: wrap;
 }
