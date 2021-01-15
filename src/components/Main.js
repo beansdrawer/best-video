@@ -19,11 +19,11 @@ class Main extends React.Component{
       <section className="movie">
         <div className="wrapper">
           <div className="movie__header">
-            <h4>「📻 Plastic Love 플라스틱 러브」 │Covered by 달마발 Darlim&Hamabal</h4>
-            <h5>달마발 Darlim&Hamabal</h5>
+            <h4>가장 황당한 축구장 TOP 10</h4>
+            <h5>불양TV</h5>
           </div>
           <div className="movie__video">
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/pNKkbStgB4c?controls=0" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/di105HNpQec?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
           </div>
         </div>
       </section>
